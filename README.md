@@ -2,11 +2,15 @@
 
 ## overview
 
-mouse test for PC Engine
+PCエンジン用、PCエンジンマウスをテストするプログラムです。
 
-## 開発環境
+![_screenshot](https://user-images.githubusercontent.com/5597377/177098976-587741da-4879-4eec-8b20-ef93dc601ae0.png)
 
-HuC
+## ビルド方法
+
+開発環境はHuCです。
+
+build.batを実行すると、ROMイメージ（test.pce）が作成されます。
 
 ## 実行方法
 
